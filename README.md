@@ -1,5 +1,6 @@
 # be-the-hero
-Semana Omnistack 11.0
+
+Semana Omnistack 11.0 React
 
 Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar.
 
